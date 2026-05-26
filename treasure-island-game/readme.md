@@ -1,19 +1,22 @@
-# Treasure Island Game 
+# Treasure Island Game
 
-A text-based adventure game built using Python.
+A simple text-based adventure game built with Python.
 
 ## Features
-- Multiple story paths
 - Decision-based gameplay
-- Win/Lose outcomes
+- Multiple endings
+- ASCII art interface
+- Nested conditional logic
 
-## Run
+## Technologies Used
+- Python
+  
+## How to Run
+
+1. Install Python
+2. Download or clone this repository
+3. Open terminal in the project folder
+4. Run:
 
 ```bash
 python main.py
-
-```text
-py-projects/
-└── treasure-island-game/
-    ├── main.py
-    └── README.md
